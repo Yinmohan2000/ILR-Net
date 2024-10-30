@@ -2,4 +2,4 @@
   
   Everyone can train the network themselves. If there are any questions you don't understand, please contact me promptly. 
   
-  e-mail:yinmohan1001@163.com
+  E-mail:yinmohan1001@163.com
