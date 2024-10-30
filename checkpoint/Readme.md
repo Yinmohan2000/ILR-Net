@@ -1,1 +1,1 @@
-#
+As our subsequent work is based on this code, we are currently unable to find the previous training weights. Therefore, we retrained this network and submitted two versions of training weights. Their performance varies on different datasets, which may lead to color distortion and bias issues in the results obtained, which may differ from our experimental images.
