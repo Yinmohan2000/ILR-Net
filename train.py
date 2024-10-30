@@ -8,7 +8,7 @@ from dataset import TheDataset
 from network.Loss import CharbonnierLoss,ReflectLoss,PerceptualLoss,ssim
 import tqdm
 
-parser = argparse.ArgumentParser(description='RetinexNet args setting')
+parser = argparse.ArgumentParser(description='ILR-Net args setting')
 parser.add_argument('--use_gpu', dest='use_gpu', type=int, default=1, help='gpu flag, 1 for GPU and 0 for CPU')
 parser.add_argument('--gpu_idx', dest='gpu_idx', default='0', help='GPU idx')
 parser.add_argument('--phase', dest='phase', default='train', help='train or test')
